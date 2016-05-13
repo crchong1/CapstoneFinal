@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xPos\ yPos
+comment0.target=Moves(int,\ int)
+comment1.params=xPos\ yPos\ score
+comment1.target=Moves(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getScore()
+numComments=5

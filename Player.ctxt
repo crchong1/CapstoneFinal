@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=state
+comment0.target=Player(int)
+comment1.params=
+comment1.target=int\ getPlayer()
+comment2.params=
+comment2.target=void\ changePlayer()
+numComments=3

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicTacToe()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ TicTacToe\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ displayBoard()
+comment11.params=xPos\ yPos
+comment11.target=char\ toChar(int,\ int)
+comment2.params=
+comment2.target=int\ whoWon()
+comment3.params=
+comment3.target=boolean\ isWon()
+comment4.params=
+comment4.target=boolean\ isBoardFull()
+comment5.params=move\ player\ game
+comment5.target=int[][]\ makeMove(Moves,\ Player,\ int[][])
+comment6.params=x\ y
+comment6.target=void\ setPlayerMove(int,\ int)
+comment7.params=game
+comment7.target=java.util.ArrayList\ getMoves(int[][])
+comment8.params=player
+comment8.target=Player\ returnChangePlayer(Player)
+comment9.params=level\ player\ game
+comment9.target=int\ minimax(int,\ Player,\ int[][])
+numComments=12
